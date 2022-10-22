@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/protfolio/static/css/main.b9786bfe.css",
+    "main.js": "/protfolio/static/js/main.0b8e4083.js",
+    "static/media/protfolio.jpeg": "/protfolio/static/media/protfolio.cb70d98abd49a5461438.jpeg",
+    "static/media/Tictac.jpeg": "/protfolio/static/media/Tictac.e94582570b1f140eb010.jpeg",
+    "static/media/keepNote.jpeg": "/protfolio/static/media/keepNote.161a895cff5fefe6ad41.jpeg",
+    "index.html": "/protfolio/index.html",
+    "main.b9786bfe.css.map": "/protfolio/static/css/main.b9786bfe.css.map",
+    "main.0b8e4083.js.map": "/protfolio/static/js/main.0b8e4083.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9786bfe.css",
+    "static/js/main.0b8e4083.js"
+  ]
+}
