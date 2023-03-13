@@ -1,0 +1,39 @@
+ const data=[
+    {
+        key:1,
+        url:"https://cdn-icons-png.flaticon.com/512/732/732212.png",
+        name:"HTML"
+    },
+    {
+        key:2,
+        url:"https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png",
+        name:"CSS"
+    },
+    {
+        key:3,
+        url:"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png",
+        name:"Bootstrap"
+    },
+    {
+        key:4,
+        url:"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png",
+        name:"Javascript"
+    },
+    {
+        key:5,
+        url:"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png",
+        name:"React"
+    },
+    {
+        key:6,
+        url:"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png",
+        name:"C"
+    },
+    {
+        key:7,
+        url:"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png",
+        name:"C++"
+    },
+]
+
+export default data;
